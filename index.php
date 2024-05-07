@@ -12,7 +12,7 @@ get_header();
     Content!
 </div>
 
-
+// include_once 'footer.php';
 
 <?php
 get_footer();
