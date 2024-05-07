@@ -5,7 +5,6 @@
  * @package Yohana-One
  */
 
-// include_once 'header.php';
 get_header();
 ?>
 <div class="content">
